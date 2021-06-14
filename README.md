@@ -12,4 +12,4 @@ while choosing indcies to run the query on a permutation is generated from the l
 
 ### testing the project 
 
-to test the project go to DBApp file and create a main method or edit whats in it, follow the signature of the methods available in the class and you should be good to go the project supports adding creating tables inserting, deleting, updating, selecting columns and creating Grid indices on and column(s) and using them adaptivly in running the query 
+to test the project go to DBApp.java file in src/java and create a main method or edit whats in it, follow the signature of the methods available in the class and you should be good to go the project supports adding creating tables inserting, deleting, updating, selecting columns and creating Grid indices on and column(s) and using them adaptivly in running the query 
